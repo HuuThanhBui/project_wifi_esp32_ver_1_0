@@ -1,0 +1,6 @@
+source "C:/Espressif/frameworks/esp-idf-v4.4.6/components/app_update/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.4.6/components/bootloader/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.4.6/components/esp_rom/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.4.6/components/esptool_py/Kconfig.projbuild"
+source "C:/Espressif/frameworks/esp-idf-v4.4.6/components/partition_table/Kconfig.projbuild"
+source "C:/Users/OS/Desktop/ESP-IDF_PROJECT/aaa_Wifi_Module_My_Project/main/Kconfig.projbuild"

@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "lm75.h": "c",
+        "module_sim_7600.h": "c",
+        "stdio.h": "c",
+        "module_sim_7670.h": "c",
+        "wifi_sta.h": "c",
+        "stdbool.h": "c",
+        "smart_config.h": "c",
+        "wifi_smart_config.h": "c",
+        "wifi_ap.h": "c",
+        "string.h": "c",
+        "response_ci.h": "c",
+        "uart.h": "c",
+        "cli_command.h": "c",
+        "uart_for_sim.h": "c",
+        "sim7600.h": "c",
+        "sensor_lib.h": "c",
+        "uart_lib.h": "c",
+        "handler_data.h": "c",
+        "i2c.h": "c",
+        "timer.h": "c"
+    }
+}
